@@ -1,6 +1,6 @@
 JavaScript-Snake
 ================
 
-JavaScript snake game. Done with canvas.
+JavaScript snake game done with canvas.
 
 http://snake.gavadinov.com/
